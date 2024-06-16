@@ -1,0 +1,6 @@
+train: /Users/keanesulit/Documents/GitHub/SR-Pill-Recognition/data/yolo_conversion/yolov8_trial1/YOLODataset/images/train/
+val: /Users/keanesulit/Documents/GitHub/SR-Pill-Recognition/data/yolo_conversion/yolov8_trial1/YOLODataset/images/val/
+
+nc: 4
+
+names: ['Tored-20', 'Hemostan', 'Saphlor-50', 'Liverprime']
